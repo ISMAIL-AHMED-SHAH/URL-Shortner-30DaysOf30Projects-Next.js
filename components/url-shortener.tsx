@@ -104,7 +104,7 @@ export default function URLShortener() {
         </form>
       </div>
                         {/* Footer section */}
-                        <footer className="mt-4 text-sm text-muted-foreground text-gray-300">
+                        <footer className="mt-4 text-sm text-muted-foreground text-gray-200">
         Created By Ismail Ahmed Shah
       </footer>
     </div>
