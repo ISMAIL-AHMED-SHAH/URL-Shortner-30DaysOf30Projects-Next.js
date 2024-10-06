@@ -1,3 +1,19 @@
+Day 27: URL Shortener
+Description: A tool to Shorten the long URLs.
+
+Functionalities:
+
+Input for long URL
+Generate and display short URL
+Copy short URL to clipboard
+Use a URL shortening API (e.g., Bitly)
+
+
+LIVE ON VERCEL : https://url-shortner-30-days-of30-projects-next-js.vercel.app/
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
